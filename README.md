@@ -1,5 +1,10 @@
 # gym
 
+#Demo
+
+See [Configuration Reference](https://gym-goer-c015f.firebaseapp.com/).
+
+
 ## Project setup
 ```
 npm install
