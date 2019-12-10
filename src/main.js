@@ -6,6 +6,7 @@ import router from './router'
 import store from './store'
 
 import VueYoutube from 'vue-youtube'
+import '@fortawesome/fontawesome-free/css/all.min.css'
  
 Vue.use(VueYoutube)
 Vue.config.productionTip = false

@@ -4,7 +4,7 @@
 <v-container grid-list-lg>
     <v-hover v-slot:default="{ hover }">
     <v-layout row>
-       <v-flex xs12 class="text-xs-center display-1 yellow font-weight-black my-5"><v-card :elevation="hover ? 19 : 4" :color="hover ? '#ffe11f' : '#ffff'"><v-card-title class="justify-center">Get a Pump</v-card-title></v-card></v-flex>
+       <v-flex xs12 class="text-xs-center display-1 yellow font-weight-black my-5"><v-card :elevation="hover ? 19 : 4" :color="hover ? '#ffe11f' : '#ffff'"><v-card-title class="justify-center">Get a Pump 1</v-card-title></v-card></v-flex>
 
     </v-layout>
     </v-hover>

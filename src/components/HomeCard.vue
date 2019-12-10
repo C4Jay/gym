@@ -1,5 +1,5 @@
 <template>
-<div class="main">
+<div class="main2">
     <v-container grid-list-lg>
         <v-layout row>
             <v-flex xs12 class="text-xs-center display-1 font-weight-black my-5">Why choose Jeff`s GYM</v-flex>
@@ -91,9 +91,8 @@ export default {
 };
 </script>
 
-<style scoped>
-
-.main{
+<style>
+.main2{
     background-color: yellow
 }
 </style>
