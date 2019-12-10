@@ -2,7 +2,7 @@
 
 #Demo
 
-See [Configuration Reference](https://gym-goer-c015f.firebaseapp.com/).
+See [GYM](https://gym-goer-c015f.firebaseapp.com/).
 
 
 ## Project setup
